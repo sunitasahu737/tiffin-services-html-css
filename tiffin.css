@@ -1,0 +1,248 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  background-color:	 #fff2e6;
+}
+.container{
+  height:100px;
+  width:auto;
+  border:1px solid white;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+.container img{
+  height: 90px;
+  width: 90px;
+  
+}
+ .menuu img{
+  height 30px;
+  width: 30px;
+  margin-top:32px;
+}
+.content{
+  height: 200px;
+  width: 92%;
+  margin-left: 8px;
+  display:flex;
+  overflow:auto;
+}
+.content img{
+  height: 200px;
+  width:95%px;
+}
+.con{
+  height:100px;
+  width:auto;
+  padding:50px ;
+}
+.con1{
+  height:40px;
+  width: 200px;
+  border: 1px solid lightgray;
+  background-color: orange;
+  margin-bottom:20px;
+
+}
+.con2{
+  height:40px;
+  width: 200px;
+  border: 1px solid lightgray;
+  background-color: orange;
+}
+h2{
+  color:white;
+  
+}
+.main{
+  height: 250px;
+  width: auto;
+}
+.main img{
+  height: 200px;
+  width:300px;
+}
+.main span{
+  font-size:0.8rem;
+  background-color:red;
+  margin-left: 17px;
+}
+.main h6{
+  
+}
+.rate img{
+  height: 200px;
+  width:300px;
+  margin-left: 8px;
+}
+.conte{
+  width: 90%;
+  padding: 30px;
+  color:orange;
+}
+.imgsec{
+  height: 250px;
+  width: auto;
+  
+}
+.imgsec img{
+  height: 200px;
+  width: 95%;
+}
+.msg{
+  height: 420px;
+  width:90%;
+  border: 3px dashed orange;
+  
+}
+.msg li{
+  margin-top:20px;
+}
+.msgvio{
+  margin-top: 20px;
+}
+.video{
+  margin-top: 20px;
+  height: 250px;
+  width: 95%;
+}
+.video video{
+  height: 200px;
+  width: 98%;
+}
+.dp{
+  height: 60px;
+  width: 60px;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+.menu{
+  margin-top: 70px;
+ 
+  
+}
+.menu h4{
+  font-weight: 1rem;
+  color:black;
+}
+.men{
+  margin-top: 20px;
+  height: 50px;
+  width: 90%;
+  border: 1px solid #000;
+  background-color: black;
+}
+.men h3{
+  color:white;
+}
+.promo h1{
+  color:orange;
+}
+ .promo span{
+  color: darkblue;
+}
+.subscribe{
+  height: 20px;
+  width:200px;
+  border: 1px solid seagreen;
+  background-color:seagreen;
+}
+.subscribe h3{
+  color: #000;
+}
+.logomenu{
+  height: 30px;
+  width: 95%;
+  border: 1px solid gray;
+  background-color: grey;
+  display:flex;
+  
+}
+.logo1{
+  margin-left: 80px;
+  
+}
+.logobar{
+  margin-top: 4px;
+  font-weight: 2rem;
+  color:lightgreen;
+}
+.menu-content{
+  margin-top:20px;
+}
+.menu-content h3{
+  color:seagreen;
+}
+.m{
+  display: flex;
+  justify-content: space-around;
+  color: ;
+}
+.m1 h5{
+  color:blue;
+}
+.dishesh h6{
+  font-weight: 0.5rem;
+  color: seagreen;
+}
+.offer{
+  height:30px;
+  width:95%;
+  border: 1px solid gray;
+  background-color: seagreen;
+  align-items: center;
+}
+.offer h6{
+  color:black;
+  margin-top: 3px;
+}
+.callback{
+  margin-top: 50px;
+}
+.callback h2{
+  color: orange;
+}
+.callmsg{
+  margin-top: 40px;
+}
+
+.callmsg h3{
+  color:grey;
+}
+.registration{
+  margin-top: 30px;
+  height: 550px;
+  width: 95%;
+  border: 2px solid orange;
+}
+
+label {
+ display: block;
+ margin-bottom: 5px;
+color: #555;
+ font-weight: bold;
+ }
+ input[type="text"],
+ input[type="email"],
+ input[type="password"],select {
+ width: 100%;
+ margin-bottom: 15px;
+ padding: 10px;
+ box-sizing: border-box;
+ border: 1px solid #ddd;
+ border-radius: 5px;
+}
+ button[type="submit"] {
+   padding: 15px;
+ border-radius: 10px;
+ border: none;
+background-color: #4caf50;
+color: white;
+ cursor: pointer;
+ width: 100%;
+ font-size: 16px;
+ }
